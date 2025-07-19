@@ -57,7 +57,7 @@ const Hero = () => {
         <div className="flex-1 flex items-center justify-center py-8 sm:py-0">
           <div className="text-left sm:text-center space-y-6 sm:space-y-8 w-full">
             <div className="space-y-4">
-              <h1 className="text-2xl sm:text-4xl lg:text-6xl font-bold leading-tight hero-font text-white drop-shadow-lg">
+              <h1 className="text-4xl sm:text-4xl lg:text-6xl font-bold leading-tight hero-font text-white drop-shadow-lg">
                 <span className="block sm:inline">Innovate</span>
                 <span className="hidden sm:inline"> . </span>
                 <span className="block sm:inline">Integrate</span>
