@@ -140,7 +140,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <div className="font-semibold text-white text-sm sm:text-base">Phone</div>
-                    <div className="text-gray-300">Available 24/7</div>
+                    <div className="text-gray-300">+92 334 2777559</div>
                   </div>
                 </div>
                 <div className="flex items-center space-x-4">
